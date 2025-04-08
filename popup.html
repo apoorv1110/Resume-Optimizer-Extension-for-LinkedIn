@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="popup.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+  <div class="container">
+    <div class="title">Job Application Assistant</div>
+    
+    <div class="candidate-info">
+      <h3>Your Profile</h3>
+      <form id="uploadForm">
+        <input type="file" id="resumeFile" accept=".pdf" required />
+        <button type="submit" id="saveProfile">Analyze Resume</button>
+      </form>
+      <div id="currentResumeName"></div>
+    </div>
+
+    <div class="analysis-results">
+      <div id="matchScore" class="match-score"></div>
+      
+      <div class="section">
+        <h3>Strengths</h3>
+        <div id="strengths" class="content-section"></div>
+      </div>
+      
+      <div class="section">
+        <h3>Suggested Improvements</h3>
+        <div id="improvements" class="content-section"></div>
+      </div>
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
