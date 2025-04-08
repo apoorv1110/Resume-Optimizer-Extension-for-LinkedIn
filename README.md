@@ -28,6 +28,7 @@ This is a personal project I built to help streamline the job application proces
 
    
 <img width="459" alt="Screenshot 2025-04-08 at 4 49 13 PM" src="https://github.com/user-attachments/assets/c54280b9-221c-474c-9f26-3bbe811e63b0" />
+<img width="617" alt="Screenshot 2025-04-08 at 4 56 34 PM" src="https://github.com/user-attachments/assets/15e7bd3a-c15d-4cf6-a1fb-464f35de307b" />
 
 
 ---
